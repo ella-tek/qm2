@@ -1,1 +1,1 @@
-# qm2
+# quantitative-methods-coursework
